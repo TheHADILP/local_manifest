@@ -18,19 +18,13 @@
   <remove-project name="LineageOS/android_packages_apps_AudioFX" path="packages/apps/AudioFX" />
 
   <remove-project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
-
-  <remove-project name="LineageOS/android_packages_apps_Eleven" path="packages/apps/Eleven" />
+  
   <remove-project name="LineageOS/android_packages_apps_Exchange" path="packages/apps/Exchange" />
   <remove-project name="LineageOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" />
   <remove-project name="LineageOS/android_packages_apps_LockClock" path="packages/apps/LockClock" />
-  <remove-project name="LineageOS/android_packages_apps_ThemeChooser" path="packages/apps/ThemeChooser" />
-  <remove-project name="LineageOS/android_packages_providers_ThemesProvider" path="packages/providers/ThemesProvider" />
   <remove-project name="LineageOS/android_packages_providers_WeatherProvider" path="packages/providers/WeatherProvider" />
-  <remove-project name="LineageOS/android_packages_services_LiveLockScreenService" path="packages/services/LiveLockScreenService" />
-  <remove-project name="LineageOS/android_packages_services_ThemeManagerService" path="packages/services/ThemeManagerService" />
   <remove-project name="LineageOS/android_packages_services_WeatherService" path="packages/services/WeatherService" />
 
-  <remove-project path="packages/themes/HexoLibre" name="LineageOS/android_packages_themes_HexoLibre" groups="themes" />
   <remove-project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <remove-project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
   <remove-project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
