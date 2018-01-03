@@ -30,4 +30,5 @@
   <remove-project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
 
   <project name="LineageOS/android_packages_apps_CMFileManager" path="packages/apps/CMFileManager" />
+  <project path="external/libtruezip" name="LineageOS/android_external_libtruezip" />
 </manifest>
