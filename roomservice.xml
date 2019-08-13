@@ -26,8 +26,6 @@
   <remove-project name="LineageOS/android_packages_services_WeatherService" path="packages/services/WeatherService" />
 
   <remove-project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
-  <remove-project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
-  <remove-project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
 
   <project name="LineageOS/android_packages_apps_CMFileManager" path="packages/apps/CMFileManager" />
   <project path="external/libtruezip" name="LineageOS/android_external_libtruezip" />
