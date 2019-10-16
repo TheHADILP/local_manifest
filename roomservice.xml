@@ -9,7 +9,7 @@
   <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" />
 
   <!-- proprietary blobs -->
-  <project path="vendor/samsung" name="TheHADILP/proprietary_vendor_samsung" remote="github" revision="master" />
+  <project path="vendor/samsung" name="shaderecker/proprietary_vendor_samsung" remote="github" revision="master" />
 
   <!-- default.xml -->
   <remove-project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
